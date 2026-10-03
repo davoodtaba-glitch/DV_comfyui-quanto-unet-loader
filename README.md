@@ -1,4 +1,4 @@
-# ComfyUI Quanto UNET Loader
+# ComfyUI Quanto UNET Loader for Wan2GP
 
 Custom node for loading checkpoints saved in Wan2GP's **quanto** int8 format.
 
@@ -28,7 +28,7 @@ Single input `unet_name`, backed by the same `diffusion_models` list the stock
 
 ```bash
 cd ComfyUI/custom_nodes
-git clone https://github.com/<you>/comfyui-quanto-unet-loader.git
+git clone https://github.com/davoodtaba-glitch/DV_comfyui-quanto-unet-loader.git
 ```
 
 Restart ComfyUI.
